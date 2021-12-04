@@ -2,7 +2,7 @@
 layout: article
 title: regions-modtiles_v090.json
 categories: setup_processes
-excerpt:  Link default regions to MODIS SIN grid tiles
+excerpt: \# Link country and continent default regions to MODIS SIN grid tiles
 tags:: 
     - json/regions-modtiles
 date: 2021-12-04
@@ -13,7 +13,7 @@ share: true
 
 # json/regions modtiles (setup_processes)
 
-###  Link default regions to MODIS SIN grid tiles
+### \# Link country and continent default regions to MODIS SIN grid tiles
 
 The json command file <span class='file'>regions-modtiles_v090.json</span> is part of karttur's GeoImagine project <span class='project'>setup_processes</span>. Calling the json file will execute the following commands of the GeoImagine Framework.
 

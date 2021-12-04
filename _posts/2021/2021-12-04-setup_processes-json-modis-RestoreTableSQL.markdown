@@ -2,7 +2,7 @@
 layout: article
 title: modis-RestoreTableSQL_v090.json
 categories: setup_processes
-excerpt:  Restore the data for the db table for modis.tilecoords from dumped sql
+excerpt: \# Restore the data for the db table for modis.tilecoords from dumped sql
 tags:: 
     - json/modis-RestoreTableSQL
 date: 2021-12-04
@@ -13,7 +13,7 @@ share: true
 
 # json/modis RestoreTableSQL (setup_processes)
 
-###  Restore the data for the db table for modis.tilecoords from dumped sql
+### \# Restore the data for the db table for modis.tilecoords from dumped sql
 
 The json command file <span class='file'>modis-RestoreTableSQL_v090.json</span> is part of karttur's GeoImagine project <span class='project'>setup_processes</span>. Calling the json file will execute the following commands of the GeoImagine Framework.
 

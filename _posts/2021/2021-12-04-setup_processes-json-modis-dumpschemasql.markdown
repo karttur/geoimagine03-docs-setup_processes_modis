@@ -2,7 +2,7 @@
 layout: article
 title: modis-dumpschemasql_v090.json
 categories: setup_processes
-excerpt:  dump (sql) and export (csv) the content of the db schema for MODIS
+excerpt: \# dump (sql) and export (csv) the content of the db schema for MODIS
 tags:: 
     - json/modis-dumpschemasql
 date: 2021-12-04
@@ -13,7 +13,7 @@ share: true
 
 # json/modis dumpschemasql (setup_processes)
 
-###  dump (sql) and export (csv) the content of the db schema for MODIS
+### \# dump (sql) and export (csv) the content of the db schema for MODIS
 
 The json command file <span class='file'>modis-dumpschemasql_v090.json</span> is part of karttur's GeoImagine project <span class='project'>setup_processes</span>. Calling the json file will execute the following commands of the GeoImagine Framework.
 
