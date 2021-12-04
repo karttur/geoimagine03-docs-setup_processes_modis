@@ -2,18 +2,18 @@
 layout: article
 title: modis-datapool-search_todb_v090.json
 categories: setup_processes
-excerpt:  Add all html preloaded search results and adds them to the db
+excerpt:  Add html search results to the db
 tags:: 
-    - modis-datapool-search_todb
-date: 2021-11-08
-modified: 2021-11-08
+    - json/modis-datapool-search_todb
+date: 2021-12-04
+modified: 2021-12-04
 comments: true
 share: true
 ---
 
-# modis datapool search todb (setup_processes)
+# json/modis datapool search todb (setup_processes)
 
-###  Add all html preloaded search results and adds them to the db
+###  Add html search results to the db
 
 The json command file <span class='file'>modis-datapool-search_todb_v090.json</span> is part of karttur's GeoImagine project <span class='project'>setup_processes</span>. Calling the json file will execute the following commands of the GeoImagine Framework.
 
